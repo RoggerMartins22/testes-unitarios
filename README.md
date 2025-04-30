@@ -6,7 +6,7 @@ Este projeto é um exemplo de aplicação React com um formulário de login simp
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/RoggerMartins22/testes-unitarios.git.git
+git clone https://github.com/RoggerMartins22/testes-unitarios.git
 cd testes-unitarios
 npm install
 ```
